@@ -72,7 +72,7 @@ When creating new patterns, please:
 
 ## Related Projects
 
-- [010 Game Binary Templates Collection](https://github.com/ModzabazeR/010-Game-Binary-Templates-Collection) - A collection of game binary patterns for [010 Editor](https://www.sweetscape.com/010editor/), an proprietary hex editor.
+- [010 Game Binary Templates Collection](https://github.com/ModzabazeR/010-Game-Binary-Templates-Collection) - A collection of game binary patterns for [010 Editor](https://www.sweetscape.com/010editor/), a proprietary hex editor.
 
 ## Resources
 
