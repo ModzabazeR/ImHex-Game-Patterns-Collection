@@ -71,8 +71,8 @@ When creating new patterns, please:
 
 ## Resources
 
-- [ImHex Documentation](https://imhex.werwolv.net/docs/)
-- [ImHex Pattern Language Documentation](https://imhex.werwolv.net/docs/patterns/)
+- [ImHex Documentation](https://docs.werwolv.net/imhex)
+- [ImHex Pattern Language Documentation](https://docs.werwolv.net/pattern-language)
 - [ImHex GitHub Repository](https://github.com/WerWolv/ImHex)
 
 ## Acknowledgements
