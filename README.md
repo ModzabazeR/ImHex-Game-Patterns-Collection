@@ -26,14 +26,9 @@ This repository includes patterns for the following games:
 
 1. Install [ImHex](https://imhex.werwolv.net/)
 2. Clone or download this repository
-3. In ImHex, go to **File > Settings > Folders**
+3. In ImHex, go to **Extras > Settings > Folders**
 4. Add the path to this repository to the "Patterns" folder list
 5. Restart ImHex
-
-Alternatively, you can copy the patterns to your ImHex patterns directory:
-- Windows: `%APPDATA%\ImHex\patterns`
-- macOS: `~/Library/Application Support/ImHex/patterns`
-- Linux: `~/.local/share/imhex/patterns`
 
 ## Usage
 
